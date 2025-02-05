@@ -61,7 +61,22 @@ VALUES
     ('POSTE-102', geography::STGeomFromText('POINT(-90.3190 15.1050)', 4326), 'Activo'),
     ('POSTE-103', geography::STGeomFromText('POINT(-90.3178 15.1038)', 4326), 'Activo'),
     ('POSTE-104', geography::STGeomFromText('POINT(-90.3182 15.1040)', 4326), 'Inactivo'),
-    ('POSTE-105', geography::STGeomFromText('POINT(-90.3195 15.1055)', 4326), 'Activo');
+    ('POSTE-105', geography::STGeomFromText('POINT(-90.3195 15.1055)', 4326), 'Activo'),
+    ('POSTE-106', geography::STGeomFromText('POINT(-90.3180 15.1040)', 4326), 'Activo'),
+    ('POSTE-107', geography::STGeomFromText('POINT(-90.3185 15.1045)', 4326), 'Activo'),
+    ('POSTE-108', geography::STGeomFromText('POINT(-90.3190 15.1050)', 4326), 'Activo'),
+    ('POSTE-109', geography::STGeomFromText('POINT(-90.3178 15.1038)', 4326), 'Activo'),
+    ('POSTE-110', geography::STGeomFromText('POINT(-90.3182 15.1040)', 4326), 'Inactivo'),
+    ('POSTE-111', geography::STGeomFromText('POINT(-90.3195 15.1055)', 4326), 'Activo'),
+    ('POSTE-112', geography::STGeomFromText('POINT(-90.3180 15.1040)', 4326), 'Activo'),
+    ('POSTE-113', geography::STGeomFromText('POINT(-90.3185 15.1045)', 4326), 'Activo'),
+    ('POSTE-114', geography::STGeomFromText('POINT(-90.3190 15.1050)', 4326), 'Activo'),
+    ('POSTE-115', geography::STGeomFromText('POINT(-90.3178 15.1038)', 4326), 'Activo'),
+    ('POSTE-116', geography::STGeomFromText('POINT(-90.3182 15.1040)', 4326), 'Inactivo'),
+    ('POSTE-117', geography::STGeomFromText('POINT(-90.3195 15.1055)', 4326), 'Activo'),
+    ('POSTE-118', geography::STGeomFromText('POINT(-90.3180 15.1040)', 4326), 'Activo'),
+    ('POSTE-119', geography::STGeomFromText('POINT(-90.3185 15.1045)', 4326), 'Activo'),
+    ('POSTE-120', geography::STGeomFromText('POINT(-90.3195 15.1055)', 4326), 'Activo');
 
 	SELECT TOP (1000) [id_poste]
       ,[codigo_poste]
