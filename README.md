@@ -1,2 +1,2 @@
 # TransaccionesGeo
-Es un ejmplo de transaciones geograficaS
+Es un ejemploo de transaciones geograficas
